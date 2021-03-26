@@ -5,4 +5,4 @@ def capital_case(x):
 
 def test_capital_case():
     print("test")
-    assert capital_case('semaphore') == 'Semaphore'
+    assert capital_case('semaphore') == 'SeMaphore'
